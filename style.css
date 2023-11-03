@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 150px;
+}
+.hidden{
+    display: none;
+}
